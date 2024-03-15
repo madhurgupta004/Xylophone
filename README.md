@@ -1,16 +1,25 @@
-# xylophone
+# Xylophone
 
-A new Flutter project.
+## Introduction
+Welcome to the Xylophone Flutter Application repository. This project is a simple, interactive musical app that simulates a xylophone. It's built with Flutter, making it cross-platform and suitable for both iOS and Android devices.
+
+## Features
+- **Simple UI**: The app features a straightforward user interface that's easy to navigate.
+- **Sound Integration**: Each key on the xylophone plays a distinct sound, providing an authentic experience.
+- **Cross-Platform**: Thanks to Flutter, this app runs smoothly on both iOS and Android.
 
 ## Getting Started
+To get started with this project, clone the repository and open it in your preferred Flutter development environment.
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+Ensure you have the following installed:
+- Flutter SDK
+- Dart SDK
+- Android Studio or Visual Studio Code (with Flutter and Dart plugins)
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
+1. Clone the repository: git clone https://github.com/madhurgupta004/Xylophone.git
+2. Navigate to the project directory: cd Xylophone
+3. Run the app: flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
