@@ -18,8 +18,17 @@ Ensure you have the following installed:
 - Android Studio or Visual Studio Code (with Flutter and Dart plugins)
 
 ### Installation
-1. Clone the repository: git clone https://github.com/madhurgupta004/Xylophone.git
-2. Navigate to the project directory: cd Xylophone
-3. Run the app: flutter run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/madhurgupta004/Xylophone.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Xylophone
+   ```
+3. Run the app:
+   ```bash
+   flutter run
+   ```
 
 
